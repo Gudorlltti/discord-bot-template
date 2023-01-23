@@ -1,1 +1,1 @@
-# A simple Discord Bot Template (using nextcord)
+# A Discord Bot Template (using nextcord)
